@@ -2,7 +2,7 @@
 
 ## Description:
 
-- This is the Python code for the inversion of analytical modelling in the manuscript entitled Fracture permeability enhancement during fluid injection controlled by pressurization rate and slip velocity, which has been submitted for consideration for publication in Nature Communications.
+- This is the Python code for the inversion of analytical modelling in the manuscript entitled Fracture permeability enhancement during fluid injection controlled by pressurization rate and slip velocity, which has been published on ***Geophysical Research Letters***.
 
 ## Required packages:
 
